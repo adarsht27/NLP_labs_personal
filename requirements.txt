@@ -10,3 +10,6 @@ tokenizers==0.23.1
 pymupdf==1.28.0 
 gensim==4.4.0
 nbformat>=4.2.0
+datasets==5.0.1
+imbalanced-learn==0.14.2
+kagglehub==1.0.2
