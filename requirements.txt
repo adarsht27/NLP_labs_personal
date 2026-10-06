@@ -13,3 +13,7 @@ nbformat>=4.2.0
 datasets==5.0.1
 imbalanced-learn==0.14.2
 kagglehub==1.0.2
+bertopic==0.17.4
+kagglehub==1.0.2
+matplotlib==3.11.1
+seaborn==0.13.2
